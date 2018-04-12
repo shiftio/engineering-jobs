@@ -23,7 +23,7 @@ Create consistent processes, automation, and tooling for building, deploying, an
 * Nginx
 
 ### Location
-* Anytown USA
+* Anytown USA (Remote OK)
 
 ### Benefits
 * 3 Weeks PTO
