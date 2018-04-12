@@ -7,7 +7,7 @@ Creating great content can be difficult. But your tools shouldn’t be. SHIFT gi
 [![Shift preview](video-posterframe.png)](https://player.vimeo.com/video/263275143?badge=0&byline=0&portrait=0&title=0 "Video Title")
 
 ## Openings
-* [Site Reliability Engineer (SRE)](description-sre.md)
+* #### [Site Reliability Engineer (SRE)](description-sre.md)
 * [Software Design Engineer in Test (SDET)](description-sre.md)
 * [Release Manager](description-sre.md)
 * [Front End Engineer](description-sre.md)
