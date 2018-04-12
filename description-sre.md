@@ -11,3 +11,21 @@ Create consistent processes, automation, and tooling for building, deploying, an
 • Dramatically reduce the risk of deployment through low risk deployment strategies
 
 • Keep services running. Establish support for measuring and monitoring production systems with regards to availability, cost, and overall health
+
+### Tech Stack
+AWS
+Google Cloud
+Kubernetes
+Docker
+Redis
+Nginx
+
+### Location
+Anytown USA
+
+### Benefits
+3 Weeks PTO
+100% Medical, Dental, & Vision Insurance
+Retirement/401K Plan
+Life & Disability Coverage
+
