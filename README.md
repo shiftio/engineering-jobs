@@ -10,7 +10,7 @@ Learn more at [shift.io](https://shift.io/)
 
 ## Openings
 * [Site Reliability Engineer (SRE)](description-sre.md)
-* [Software Design Engineer in Test (SDET)](description-sre.md)
+* [Software Design Engineer in Test (SDET)](description-sdet.md)
 * [Release Manager](description-sre.md)
 * [Front End Engineer](description-sre.md)
 * [Video Engineer](description-sre.md)
