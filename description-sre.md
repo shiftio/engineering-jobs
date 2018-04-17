@@ -2,17 +2,19 @@
 
 ### Goal
 
-Create consistent processes, automation, and tooling for building, deploying, and maintaining production services
+Make moving code into production easy. Make everyone clear on what is moving where and when.
 
 ### Responsibilities
 
-* Embed early with development teams to improve operational readiness of services
+* Be a conduit for getting product from dev to production
 
-* Identify and deploy CI/CD tooling that meets the needs of development teams
+* Create cohesion between test, product, and engineering
 
-* Dramatically reduce the risk of deployment through low risk deployment strategies
+* Champion a language and process for consistent versioning across products and their subsystems
 
-* Keep services running. Establish support for measuring and monitoring production systems with regards to availability, cost, and overall health
+* Know the fine details of what is going out and what has gone out
+
+* Create clear, shareable release documentation that everyone can make sense of
 
 ### Tech Stack
 * AWS
