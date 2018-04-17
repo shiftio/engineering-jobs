@@ -1,31 +1,38 @@
-# Site Reliability Engineer
+# Front End Engineer
 
 ### Goal
 
-Make moving code into production easy. Make everyone clear on what is moving where and when.
+Building delight javascript applications.
 
 ### Responsibilities
 
-* Be a conduit for getting product from dev to production
+* Understand our users and their problems and the resulting opportunities
 
-* Create cohesion between test, product, and engineering
+* Turn a picture into product using javascript and releated peripherals
 
-* Champion a language and process for consistent versioning across products and their subsystems
+* Design simple soplutions to difficult problems
 
-* Know the fine details of what is going out and what has gone out
+* Build clean anad maintainable software that you'd brag about
 
-* Create clear, shareable release documentation that everyone can make sense of
+* Make javascript go fast in the browser and on desktop
+
+* Always wondering how healthy your apps are in production
+
+* Always asking if the user is happy
+
 
 ### Tech Stack
-* AWS
-* Google Cloud
-* Kubernetes
-* Docker
-* Redis
-* Nginx
+* React
+* Redux
+* Saga
+* Typescript
+* Jest
+* Lodash
+* Rambda
+* Webpack
 
 ### Location
-* Anytown USA (Remote OK)
+* Boston, MA
 
 ### Benefits
 * 3 Weeks PTO
