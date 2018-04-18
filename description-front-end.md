@@ -2,23 +2,23 @@
 
 ### Goal
 
-Building delight javascript applications.
+Build delightful javascript applications
 
 ### Responsibilities
 
-* Understand our users and their problems and the resulting opportunities
+* Understand our users, their problems, and the resulting opportunities
 
 * Turn a picture into product using javascript and releated peripherals
 
-* Design simple soplutions to difficult problems
+* Design simple solutions to difficult problems
 
-* Build clean anad maintainable software that you'd brag about
+* Build clean and maintainable software that you'd brag about
 
 * Make javascript go fast in the browser and on desktop
 
-* Always wondering how healthy your apps are in production
+* Always wonder about the health of your apps in production
 
-* Always asking if the user is happy
+* Always ask if the user is happy
 
 
 ### Tech Stack
@@ -28,7 +28,7 @@ Building delight javascript applications.
 * Typescript
 * Jest
 * Lodash
-* Rambda
+* Ramda
 * Webpack
 
 ### Location
