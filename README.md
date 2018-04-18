@@ -13,4 +13,4 @@ Learn more at [shift.io](https://shift.io/)
 * [Software Design Engineer in Test (SDET)](description-sdet.md)
 * [Release Manager](description-release-manager.md)
 * [Front End Engineer](description-front-end.md)
-* [Video Engineer](description-video-engineer.md)
+
