@@ -6,7 +6,7 @@ Creating great content can be difficult. But your tools shouldn’t be. SHIFT gi
 
 Learn more at [shift.io](https://shift.io/)
 
-[![Shift preview](video-posterframe.png)](https://player.vimeo.com/video/263275143?badge=0&byline=0&portrait=0&title=0 "Video Title")
+[![Shift preview](video-posterframe.png)](https://player.vimeo.com/video/263275143?badge=0&byline=0&portrait=0&title=0&autoplay=1 "Video Title")
 
 ## Openings
 * [Site Reliability Engineer (SRE)](description-sre.md)
