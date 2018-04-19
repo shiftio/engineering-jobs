@@ -2,34 +2,36 @@
 
 ### Goal
 
-Build delightful javascript applications
+Build delightful JavaScript applications
 
 ### Responsibilities
 
 * Understand our users, their problems, and the resulting opportunities
 
-* Turn a picture into product using javascript and releated peripherals
+* Turn a picture into product using JavaScript and related peripherals
 
 * Design simple solutions to difficult problems
 
 * Build clean and maintainable software that you'd brag about
 
-* Make javascript go fast in the browser and on desktop
+* Write performant JavaScript for web and desktop
 
 * Always wonder about the health of your apps in production
 
 * Always ask if the user is happy
 
+* Passionately contribute to an awesome team 
+
 
 ### Tech Stack
+* JavaScript / ES2015+
 * React
-* Redux
-* Saga
-* Typescript
+* Redux, redux-saga
+* TypeScript
 * Jest
 * Lodash
-* Ramda
 * Webpack
+* Electron
 
 ### Location
 * Boston, MA
